@@ -2,7 +2,7 @@ body {
   background-color: #f2f2f2;
 }
 h1 {
-   background-color: #Black;
+   background-color: #000000;
    text-align: center;
    color: #f2f2f2
 }
@@ -31,12 +31,17 @@ p {
     border-width: 1px;
     border-color: black;
 }
-img video {
+img {
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
 
+video {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
   .right {
     float: right;
   }
