@@ -10,10 +10,10 @@ h2 {
    text-align: center;
 }
 h3 {
-   text-align: left;
+   float: left;
 }
  p {
-    text-align: left;
+   float: left;
  }
  h1 {
   font-size: 75px;
