@@ -2,7 +2,7 @@ body {
   background-color: #f2f2f2;
 }
 h1 {
-   background-color: #4d4d4d;
+   background-color: #Black;
    text-align: center;
    color: #f2f2f2
 }
@@ -31,7 +31,7 @@ p {
     border-width: 1px;
     border-color: black;
 }
-img {
+img video {
   display: block;
   margin-left: auto;
   margin-right: auto;
