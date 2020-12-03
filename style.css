@@ -1,1 +1,47 @@
+body {
+  background-color: #ffe6cc;
+}
+h1 {
+   text-align: center;
+}
+h2 {
+   text-align: center;
+}
+h3 {
+   text-align: left;
+}
+ p {
+    text-align: right;
+ }
+ h1 {
+  font-size: 60px;
+}
+ h2 {
+  font-size: 50px;
+}
+h3 {
+  font-size: 40px;
+}
+p {
+  font-size: 30px;
+}
+.center {
+  margin: auto;
+  width: 10%;
+  border: 50px solid #8c8c8c;
+  padding: 10px;
+  border-style: solid;
+}
 
+  .right {
+    float: right;
+  }
+  .left {
+    float: left;
+  }
+  .Castoro {
+font-family: 'Castoro', serif;
+}
+.Raleway {
+font-family: 'Raleway', sans-serif;
+}
