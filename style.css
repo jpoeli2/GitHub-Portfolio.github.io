@@ -1,11 +1,11 @@
-head {
-  background-color: #4d4d4d;
-}
 body {
   background-color: #f2f2f2;
 }
 h1 {
    text-align: center;
+   color: #f2f2f2
+   background-color: #4d4d4d
+
 }
 h2 {
    text-align: center;
@@ -28,11 +28,15 @@ h3 {
 p {
   font-size: 30px;
 }
+.ImageBorder
+{
+    border-width: 5px;
+    border-color: #4d4d4d;
+}
 .center {
-  margin: auto;
-  width: 800px;
-  border: 5px solid #4d4d4d;
-  border-style: solid;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
   .right {
