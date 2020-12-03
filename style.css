@@ -1,5 +1,5 @@
 body {
-  background-color: #ffe6cc;
+  background-color: ##e6e6e6;
 }
 h1 {
    text-align: center;
@@ -11,7 +11,7 @@ h3 {
    text-align: left;
 }
  p {
-    text-align: right;
+    text-align: left;
  }
  h1 {
   font-size: 60px;
